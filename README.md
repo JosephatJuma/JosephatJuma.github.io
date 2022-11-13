@@ -1,5 +1,5 @@
 <div style="display:flex;" class="row">
- <img src="image.jpg" width="350" alt="Profile Image">
+ <img src="image.jpg" width="300" height="350"alt="Profile Image">
   <div>
    <h1>Juma Josephat</h1>
       <h4>Student at Uganda Christian university</h4>
