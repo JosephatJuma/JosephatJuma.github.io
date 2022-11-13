@@ -1,4 +1,4 @@
-<div style="display:flext;">
+<div style="display:flex;" class="row">
  <img src="image.jpg" width="350" alt="Profile Image">
   <div>
    <h1>Juma Josephat</h1>
